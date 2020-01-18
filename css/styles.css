@@ -132,14 +132,13 @@ p{
     
 }
 #footer{
-  
+    padding: 20px; 
     text-align: center;
 }
 .p-tag{
     line-height: 3;
 }
 .a-tag{
-    padding-top:28px;
-    padding: 2%; 
+    padding: 0px 20px;
     text-decoration: none;
 }
